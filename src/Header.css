@@ -1,0 +1,26 @@
+.header {
+    background-color: black;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 3em;
+  }
+  
+  .header img {
+    height: 100px;
+    margin-right: 1em;
+  }
+  
+  .header-images {
+    display: flex;
+  }
+  
+  .header-image {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    margin-right: 1em;
+  }
+  
